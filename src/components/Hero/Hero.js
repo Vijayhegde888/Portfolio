@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Aspiring React js and node js Developer
       </SectionText>
-      <Button onClick={()=>window.location='https://analytics.google.com/analytics/web/'}>Learn More</Button>
+      <Button onClick={()=>window.location='https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXhPwRKNDdNPRqvdLJlDZBfGrNbXFznVlXrrlZXhnlSkQNCGLFlQqCSdVhQcVZxsDzBKp'}>Contact Me</Button>
     </LeftSection>
   </Section>
 );
