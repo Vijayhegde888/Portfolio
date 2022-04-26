@@ -30,7 +30,7 @@ export const projects = [
     title: 'Blog Site',
     description: "This site is Used for publishing articles",
       image: '/images/suddi.png',
-      tags: ['php', 'java','Google Adsense'],
+      tags: ['php', 'java','Google Adsense','react'],
     source: 'https://suddiexpress.com/',
     visit: 'https://suddiexpress.com/',
     id: 2,
@@ -40,6 +40,6 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: 'Started My journey as an intern Developer', },
   { year: 2020, text: 'Worked as an Associate at Skillify Technologies', },
-  { year: 2021, text: 'Working as a software engineer at Speridian Technologies', }
+  { year: "2021-2022", text: 'Working as a software developer at Speridian Technologies', }
  
 ];
