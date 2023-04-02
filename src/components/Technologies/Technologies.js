@@ -29,7 +29,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br /> React js and knockout js
+            Experience with <br /> React js and Next js
           </ListParagraph>
         </ListContainer>
       </ListItem>

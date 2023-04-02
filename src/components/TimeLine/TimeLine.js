@@ -46,8 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Looking for a position where I can contribute significantly by inculcation of knowledge and
-skills that provides ample opportunities to grow professionally.
+      Meticulous web developer with 2.5 years of experience in web development. Detail-oriented,
+organized, and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic
+team player ready to contribute to company success.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

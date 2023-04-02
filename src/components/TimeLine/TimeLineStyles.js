@@ -69,6 +69,7 @@ export const CarouselItemTitle = styled.h4`
   font-size: 24px;
   line-height: 32px;
   letter-spacing: 0.02em;
+  white-space:nowrap;
   display: flex;
   /* This gradient is different due to the size of the Title container, it must transition sooner to be visible on the text */
   background: linear-gradient(121.57deg, #FFFFFF 10%, rgba(255, 255, 255, 0.66) 30.15%);
